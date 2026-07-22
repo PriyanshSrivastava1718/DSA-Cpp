@@ -6,7 +6,7 @@ public:
         int element=0;    //store ans
         for(int i=0;i<nums.size();i++) //xor all element
         {
-            element = element ^ nums[i]; //since a^a=0 therefore unique element remains
+            element = element ^ nums[i]; //since a^a=0 therefore unique element  remains
         }
         return element;
     }
