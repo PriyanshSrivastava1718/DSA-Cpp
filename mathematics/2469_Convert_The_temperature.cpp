@@ -1,0 +1,17 @@
+/* class Solution {
+public:
+    vector<double> convertTemperature(double celsius) 
+    {
+        vector<double> ans;
+        double kelvin = celsius + 273.15;
+        ans.push_back(kelvin);
+        double fah = celsius * 1.80 + 32.00;
+        ans.push_back(fah);
+        return ans;    
+    }
+};
+ */
+/* 
+time complexity= O(1)
+space complexity= O(1)
+*/
