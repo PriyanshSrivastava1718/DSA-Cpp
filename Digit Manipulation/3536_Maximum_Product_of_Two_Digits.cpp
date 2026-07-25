@@ -1,4 +1,4 @@
-class Solution {
+/* class Solution {
 public:
     int maxProduct(int n) 
     {
@@ -35,7 +35,7 @@ public:
         else
             return max1*max1;
     }
-};  
+};   */
 /* 
 algorithm = using digit extraction 
             store max1 and max2 (2 largest digit)
