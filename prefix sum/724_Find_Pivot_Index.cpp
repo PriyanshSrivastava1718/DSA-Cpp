@@ -1,4 +1,4 @@
-class Solution {
+/* class Solution {
 public:
     int pivotIndex(vector<int>& nums) 
     {
@@ -34,7 +34,7 @@ public:
 
         return -1;
     }
-};
+}; */
 /*
 Approach: Prefix Sum + Suffix Sum
 
