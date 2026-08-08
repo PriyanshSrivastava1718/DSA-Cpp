@@ -32,7 +32,7 @@ public:
             }
         }
 
-        if ((dividend < 0 && divisor > 0) || (dividend > 0 && divisor < 0))     //in case of -ve ans
+        if ((dividend < 0 && divisor > 0) || (dividend > 0 && divisor < 0))      //in case of -ve ans
             return -ans;
 
         return ans;
