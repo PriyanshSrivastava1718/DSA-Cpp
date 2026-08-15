@@ -34,5 +34,5 @@ public:
     5. Return the first bad version found.
 
     Time Complexity: O(log n)
-    Space Complexity: O(1)
+    Space Complexity: O(1) 
 */
