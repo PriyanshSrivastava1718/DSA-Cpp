@@ -24,3 +24,15 @@ public:
         return ans;
     }
 }; */
+/*
+    Algorithm:
+    1. Apply binary search on the versions from 1 to n.
+    2. Find the first version for which isBadVersion() returns true.
+    3. If the middle version is bad, store it as the possible answer and search
+       for an earlier bad version in the left half.
+    4. If the middle version is not bad, search in the right half.
+    5. Return the first bad version found.
+
+    Time Complexity: O(log n)
+    Space Complexity: O(1)
+*/
