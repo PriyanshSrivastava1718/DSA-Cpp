@@ -14,7 +14,7 @@ public:
         int left = min(minIdx, maxIdx);
         int right = max(minIdx, maxIdx);
 
-        int option1 = right + 1;
+        int option1 = right + 1;  
         int option2 = n - left;
         int option3 = (left + 1) + (n - right);
 
