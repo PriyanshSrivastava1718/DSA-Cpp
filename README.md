@@ -10,7 +10,7 @@ This repository contains selected problems I have solved while learning and prac
 - 2D Arrays
 - Binary Search
 - Binary Trees
-- Digit Manipulation
+- Digit Manipulation 
 - Greedy
 - Hashing
 - Linear Traversal
